@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>801</name>
+    <Style id="idBlackPolygon">
+      <LineStyle>
+        <color>f5000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>55000000</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Big Bend</name>
+      <description>Call-801 AoI ID: 2, Priority: 1, SurfaceArea: 704, Comment:</description>
+      <styleUrl>#idBlackPolygon</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>31.8235,-26.6954,0 32.1236,-26.6954,0 32.1236,-26.9662,0 31.8235,-26.9662,0 31.8235,-26.6954,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mbabane</name>
+      <description>Call-801 AoI ID: 3, Priority: 1, SurfaceArea: 313, Comment:</description>
+      <styleUrl>#idBlackPolygon</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>31.0446,-26.2365,0 31.2438,-26.2365,0 31.2438,-26.417,0 31.0446,-26.417,0 31.0446,-26.2365,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Sipjofaneni</name>
+      <description>Call-801 AoI ID: 4, Priority: 1, SurfaceArea: 704, Comment:</description>
+      <styleUrl>#idBlackPolygon</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>31.533,-26.5465,0 31.8328,-26.5465,0 31.8328,-26.8173,0 31.533,-26.8173,0 31.533,-26.5465,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>centerPoint_0</name>
+      <description>Call-801 AoI ID: 1, Priority: 1, Radius (km): 101.0, Lat: -26.6164, Long: 31.5361, SurfaceArea: 32047, Comment: Radius (km): 101;</description>
+      <styleUrl>#idBlackPolygon</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.5206,-25.7085,0 32.5516,-25.7085,0 32.5516,-27.5243,0 30.5206,-27.5243,0 30.5206,-25.7085,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
+
